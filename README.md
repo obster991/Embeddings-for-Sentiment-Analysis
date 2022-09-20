@@ -17,11 +17,9 @@ The homework is organized in two different part:
 
 
 
-
-
 ## Project group members
-- Giulio D'Erasmo
-- Andrea Potì
+- [Giulio D'Erasmo](https://github.com/giulio-derasmo)
+- [Andrea Potì](https://github.com/obster991)
 
 # 
 <p align="center">
